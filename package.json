@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/shaneob/semantic-release-demo#readme",
   "devDependencies": {
+    "@semantic-release/github": "^7.1.2",
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.2.2"
   },
